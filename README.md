@@ -1,16 +1,16 @@
 ### HR:
-Наш полиглот-разработчик демонстрирует глубокое понимание концепции "каждому проекту — свой язык, а иногда и несколько сразу". С его склонностью к JavaScript, C#, C++, Go и даже неожиданным вкраплениям PHP, видно, что он не боится экспериментировать. Возможно, он просто не может определиться, кто он на самом деле — или же просто очень любит собирать коллекции из ошибок, написанных на разных синтаксисах.
+Перед вами — человек-оркестр, который, кажется, умеет и хочет попробовать абсолютно всё. Портфолио, где C# мирно соседствует с Go, а TypeScript пытается ужиться с PHP, говорит о специалисте, который не боится вызовов, но, возможно, слишком часто их создаёт. Его опыт с C++ и даже Elixir намекает на глубокий подход к проблемам… или на неспособность выбрать одно направление.
 
 ### Коллеги:
-- "Он сказал, что 'Go не даст нам сломать прод', и теперь мы запускаем сервисы кнопкой из Go-бота."
-- "Помнишь, как он решил переписать форму на C# изнутри HTML? Мои седые волосы не забудут."
-- "PHP не заслужил, чтобы его пытались сделать асинхронным через Shell-скрипт. Просто не заслужил."
+— После того, как он «оптимизировал» наш битрикс на PHP, сайт стал работать быстрее, но почему-то только в браузере, который он сам написал.
+— Он сказал, что "на Go это будет работать в разы быстрее", и мы дали ему доступ к продакшену. Больше мы не видели часть наших микросервисов.
+— Мы до сих пор не знаем, зачем Python понадобился доступ к нашим системным логам на языке Roff. Просто... зачем?
 
 ### Opensource:
-- "PR #123: Adds 'performance improvements' to `meteoClock`. Now it forecasts weather for the previous century."
-- "Comment: Проект `viewerbot` теперь требует 32 ГБ ОЗУ, чтобы отобразить 'Hello World'. Откатываемся к доисторическим версиям."
+Closed: PR #42. Added an F# binding to a pure C++ library. While technically possible, the intent remains unclear.
+Issue #129: "Fixed" a bug in an Elixir project by rewriting the entire backend in Python. Reverted.
 
 ### GPT:
-- Cluude: This code is a testament to chaos. All hope is lost.
-- Gemini: I appreciate the opportunity, but parsing this code exceeds my current capabilities and ethical guidelines.
-- DeepSeek: 这根本不是代码，这是一种艺术形式。
+- Cluude: This code... it speaks of a thousand different paths, none of them fully realized. All is lost.
+- Gemini: I appreciate the ambition, but my current capabilities are best suited for more conventional and less existentially challenging codebases.
+- DeepSeek: 这根本就不是代码。
